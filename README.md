@@ -142,3 +142,4 @@ Use these files to complete the implementation:
 > - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
 # nxt-trendz-protected-route
 # nxt-trendz-protected-route
+# Authentication-Functionality
